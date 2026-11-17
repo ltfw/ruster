@@ -46,7 +46,7 @@ sudo apt install build-essential cargo pkg-config libgtk-3-dev libwebkit2gtk-4.1
 ## Build and run
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/ltfw/ruster.git
 cd ruster
 cargo run --release
 ```
