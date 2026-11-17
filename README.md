@@ -78,3 +78,7 @@ src/main.rs          the whole application
 assets/ruster.svg    app icon
 install-cachyos.sh   user install / uninstall script
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
